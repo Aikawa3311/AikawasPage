@@ -4,7 +4,7 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./docs/index.md).
+[Link to another page](./docs/article.md).
 
 There should be whitespace between paragraphs.
 
