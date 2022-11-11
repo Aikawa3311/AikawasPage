@@ -22,5 +22,5 @@ layout: default
 
 # 連絡用
 
-![addr](./images/addr.png)
+![addr](./images/addr_bl.png)
 
