@@ -20,6 +20,11 @@ layout: default
 ムカデを誘導して高得点を目指す、昔ながらのcentipede gameです。
 
 
+# その他
+
+- [About](./docs/about.md)
+
+
 # 連絡用
 
 ![addr](./images/addr_bl.png)
