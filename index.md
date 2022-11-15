@@ -13,9 +13,9 @@ layout: default
 [ダウンロード(Download)](https://www.dropbox.com/s/35oo8bhn389pecl/dummypede.zip?dl=0) | 
 [コードのみ(Source code)](https://github.com/Aikawa3311/Dummypede)
 
-| 動作確認環境 | 解像度 | 開発環境 | Language | 備考 |
+| 動作確認環境 | 解像度 | Language | 開発環境 | 備考 |
 |:------------|:-------|:--------|:----|:----|
-| Windows 10 Home | 1200 × 800 | OpenSiv3D | Mainly Japanese | |
+| Windows 10 Home | 1200 × 800 | Japanese | OpenSiv3d | |
 
 ムカデを誘導して高得点を目指す、昔ながらのcentipede gameです。
 
