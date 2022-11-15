@@ -6,6 +6,7 @@ layout: default
 
 感想、バグ、新たな動作確認環境などがあれば教えてください。
 
+
 ## Dummypede
 
 ![dummypede](./images/dummypede.png)
@@ -23,6 +24,21 @@ layout: default
 # その他
 
 - [About](./docs/about.md)
+
+
+# 免責事項
+
+```
+免責事項
+当サイトで公開しているコンテンツ（以下、作品と記載）は、動作や内容について保証しません。
+作品により生じたあらゆる問題に関して、こちらは責任を負いかねます。
+作品はご自身の責任でご利用ください。
+
+Disclaimer
+The works published in this website (referred to simply as "works" below) don't guarantee thier behaviors and contents.
+I don't take responsibility for any problems occured by works.
+Please use the works at your own risk.
+```
 
 
 # 連絡用
