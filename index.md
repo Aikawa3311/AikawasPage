@@ -11,16 +11,16 @@ layout: default
 
 *2022/11/01公開*
 
-*2022/11/20最終更新*
+*2022/12/04最終更新*
 
 ![dummypede](./images/dummypede.png)
 
-[ダウンロード(Download)](https://www.dropbox.com/s/z32lrecnebmo7bi/dummypede_1_03.zip?dl=0) | 
+[ダウンロード(Download)](https://www.dropbox.com/s/q33f2klwy18v9ae/dummypede_1_04.zip?dl=0) | 
 [コードのみ(Source code)](https://github.com/Aikawa3311/Dummypede)
 
 | 動作確認環境 | 解像度 | Language | バージョン | 備考 |
 |:------------|:-------|:--------|:----------|:-----|
-| Windows 10<br>Windows 11 | 1200 × 800 | Japanese | 1.03 | |
+| Windows 10<br>Windows 11 | 1200 × 800 | Japanese | 1.04 | |
 
 開発環境：OpenSiv3d
 
