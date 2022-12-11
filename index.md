@@ -4,7 +4,9 @@ layout: default
 
 # ゲーム
 
-感想、バグ、新たな動作確認環境などがあれば教えてください。
+ゲーム作品です。
+
+感想、バグ、不具合・新たな動作確認環境などがあれば、メールで教えて頂けるとうれしいです。
 
 
 ## Dummypede
@@ -15,9 +17,14 @@ layout: default
 
 ![dummypede](./images/dummypede.png)
 
-[Dropboxからダウンロード(Download)](https://www.dropbox.com/s/et40x4cj5bo1zcl/dummypede_1_06.zip?dl=0) | 
-[夢現からダウンロード](https://freegame-mugen.jp/adventure/game_10661.html) | 
-[コードのみ(Source code)](https://github.com/Aikawa3311/Dummypede)
+\[ダウンロード(Download)\]
+
+[夢現](https://freegame-mugen.jp/adventure/game_10661.html) | 
+[Dropbox](https://www.dropbox.com/s/et40x4cj5bo1zcl/dummypede_1_06.zip?dl=0)
+
+\[ソースコード(Source code)\]
+
+[コードのみ](https://github.com/Aikawa3311/Dummypede)
 
 | 動作確認環境 | 解像度 | Language | バージョン | 備考 |
 |:------------|:-------|:--------|:----------|:-----|
