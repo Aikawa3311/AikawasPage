@@ -6,21 +6,21 @@ layout: default
 
 ゲーム作品です。
 
-感想、バグ、不具合・新たな動作確認環境などがあれば、メールで教えて頂けるとうれしいです。
+感想、バグ、不具合や新たな動作確認環境などがあれば、メールにて教えて頂けるとうれしいです。
 
 
 ## Dummypede
 
 *2022/11/01公開*
 
-*2022/12/11最終更新*
+*2022/12/15最終更新*
 
 ![dummypede](./images/dummypede.png)
 
 \[ダウンロード(Download)\]
 
 [夢現](https://freegame-mugen.jp/adventure/game_10661.html) | 
-[Dropbox](https://www.dropbox.com/s/et40x4cj5bo1zcl/dummypede_1_06.zip?dl=0)
+[Dropbox](https://www.dropbox.com/s/ledno70mgn1tnk2/dummypede_1_07.zip?dl=0)
 
 \[ソースコード(Source code)\]
 
@@ -28,7 +28,7 @@ layout: default
 
 | 動作確認環境 | 解像度 | Language | バージョン | 備考 |
 |:------------|:-------|:--------|:----------|:-----|
-| Windows 10<br>Windows 11 | 1200 × 800<br>自動/手動で変更可 | Japanese | 1.06 | |
+| Windows 10<br>Windows 11 | 1200 × 800<br>自動/手動で変更可 | Japanese | 1.07 | |
 
 開発環境：OpenSiv3d
 
