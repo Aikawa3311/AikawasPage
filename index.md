@@ -13,7 +13,7 @@ layout: default
 
 *2022/11/01公開*
 
-*2022/12/23最終更新*
+*2023/02/19最終更新*
 
 ![dummypede](./images/dummypede.png)
 
@@ -28,7 +28,7 @@ layout: default
 
 | 動作確認環境 | 解像度 | Language | バージョン | 備考 |
 |:------------|:-------|:--------|:----------|:-----|
-| Windows 10<br>Windows 11 | 1200 × 800<br>自動/手動で変更可 | Japanese | 1.08 | |
+| Windows 10<br>Windows 11 | 1200 × 800<br>自動/手動で変更可 | Japanese | 1.09 | |
 
 開発環境：OpenSiv3d
 
@@ -78,4 +78,3 @@ Please use the works at your own risk.
 何か連絡がある場合は、以下のアドレスにお願いします。
 
 ![addr](./images/addr_bl.png)
-
