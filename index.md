@@ -2,7 +2,9 @@
 layout: default
 ---
 
-![xyzrgb_dragon](./images/xyzrgb_dragon_t.gif)
+
+
+![kitten](./images/kitten_highreso_t.gif)
 
 
 # ゲーム
