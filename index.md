@@ -2,6 +2,9 @@
 layout: default
 ---
 
+![xyzrgb_dragon](./images/xyzrgb_dragon_t.gif)
+
+
 # ゲーム
 
 ゲーム作品です。
