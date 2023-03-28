@@ -18,14 +18,14 @@ layout: default
 
 *2022/11/01公開*
 
-*2023/02/19最終更新*
+*2023/03/29最終更新*
 
 ![dummypede](./images/dummypede.png)
 
 \[ダウンロード(Download)\]
 
 [夢現](https://freegame-mugen.jp/adventure/game_10661.html) | 
-[Dropbox](https://www.dropbox.com/s/hyim33i1e1r1890/dummypede_1_09.zip?dl=0)
+[Dropbox](https://www.dropbox.com/s/jamo3wql21mmwl0/dummypede_1_10.zip?dl=0)
 
 \[ソースコード(Source code)\]
 
@@ -33,7 +33,7 @@ layout: default
 
 | 動作確認環境 | 解像度 | Language | バージョン | 備考 |
 |:------------|:-------|:--------|:----------|:-----|
-| Windows 10<br>Windows 11 | 1200 × 800<br>自動/手動で変更可 | Japanese | 1.09 | |
+| Windows 10<br>Windows 11 | 1200 × 800<br>自動/手動で変更可 | Japanese | 1.10 | |
 
 開発環境：OpenSiv3d
 
