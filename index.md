@@ -3,7 +3,6 @@ layout: default
 ---
 
 
-
 ![kitten](./images/kitten_highreso_t.gif)
 
 
@@ -61,6 +60,7 @@ Dummypedeは、コンピュータのウィンドウシステムを模倣した�
 # その他
 
 - [About](./docs/about.md)
+- [量子ボゴソート直訳](./docs/chilla_ura/quantum_bogo_sort.md)
 
 
 # 免責事項
