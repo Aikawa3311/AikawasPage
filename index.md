@@ -61,7 +61,12 @@ Dummypedeは、コンピュータのウィンドウシステムを模倣した�
 
 - [About](./docs/about.md)
 - [量子ボゴソート直訳](./docs/chilla_ura/quantum_bogo_sort.md)
+
+## 問題
+
+
 - [剰余非重複数](./docs/chilla_ura/non-duplication_residue_number.md)
+- [裁縫職人の正方形](./docs/chilla_ura/tailors_square.md)
 
 
 # 免責事項
