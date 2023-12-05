@@ -23,8 +23,8 @@ layout: default
 
 \[ダウンロード(Download)\]
 
-[夢現](https://freegame-mugen.jp/adventure/game_10661.html) | 
-[Dropbox](https://www.dropbox.com/s/jamo3wql21mmwl0/dummypede_1_10.zip?dl=0)
+※配布停止中  
+[夢現](https://freegame-mugen.jp/adventure/game_10661.html)
 
 \[ソースコード(Source code)\]
 
@@ -63,7 +63,6 @@ Dummypedeは、コンピュータのウィンドウシステムを模倣した�
 - [量子ボゴソート直訳](./docs/chilla_ura/quantum_bogo_sort.md)
 
 ## 問題
-
 
 - [剰余非重複数](./docs/chilla_ura/non-duplication_residue_number.md)
 - [裁縫職人の正方形](./docs/chilla_ura/tailors_square.md)
