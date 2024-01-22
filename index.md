@@ -67,6 +67,10 @@ Dummypedeは、コンピュータのウィンドウシステムを模倣した�
 - [剰余非重複数](./docs/chilla_ura/non-duplication_residue_number.md)
 - [裁縫職人の正方形](./docs/chilla_ura/tailors_square.md)
 
+## 適当
+
+- [Palworld から見るゲームのパクリ問題！？](./docs/chilla_ura/palworld.md)
+
 
 # 免責事項
 
